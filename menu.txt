@@ -1,0 +1,12 @@
+Kotlet
+20
+Kotlet mielony
+30
+Zupa grzybowa
+15
+Zupa pomidorowa
+10
+Zupa rosołowa
+15
+Zupa pieczarkowa
+10

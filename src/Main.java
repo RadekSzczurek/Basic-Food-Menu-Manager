@@ -47,10 +47,9 @@ public class Main {
                             String linia;
 
                             while ((linia = bfr.readLine()) != null) {
-                                String dishName = linia;
                                 int price = Integer.parseInt(bfr.readLine());
 
-                                Food food = new Food(dishName, price);
+                                Food food = new Food(linia, price);
                                 list.add(food);
                             }
                             bfr.close();

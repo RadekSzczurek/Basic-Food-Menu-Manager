@@ -1,6 +1,6 @@
 public class Food {
-    private String dishName;
-    private int price;
+    private final String dishName;
+    private final int price;
 
     public Food(String dishName, int price) {
         this.dishName = dishName;

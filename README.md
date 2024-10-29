@@ -13,7 +13,7 @@ Food Menu Manager to prosta aplikacja konsolowa napisana w języku Java, która 
 1. Sklonuj repozytorium na swój lokalny komputer.
 2. Upewnij się, że masz zainstalowaną JDK (Java Development Kit).
 3. Otwórz terminal i przejdź do katalogu projektu.
-4. Uruchom program za pomocą polecenia:
+4. Uruchom program za pomocą polecenia SHIFT + F10.
 5. Postępuj zgodnie z instrukcjami wyświetlanymi w konsoli.
 
 ## Wymagania
